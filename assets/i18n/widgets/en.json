@@ -1,0 +1,42 @@
+{
+  "primary_header": {
+    "l_toggle_private": "E Private",
+    "l_toggle_business": "E Business",
+    "l_favourite": "E Favourite",
+    "l_menu": "E Menu",
+    "l_we_buy": "Wir kaufen Gebrauchtwagen",
+    "l_home": "Home",
+    "l_vehicles": "Fahrzeuge",
+    "l_contact": "Kontakt",
+    "l_jobs": "Jobs"
+  },
+  "primary_footer": {
+    "l_copyright": "E © 2021 CHECKCARS24. Alle Rechte vorbehalten.",
+    "l_our_partners": "Unsere Partner",
+    "l_imprint": "E Impressum",
+    "l_data_protection": "E Datenschutz",
+    "l_financing": "E Finanzierung",
+    "l_contact": "E Kontakt",
+    "l_conditions": "E AGB",
+    "l_revocation": "E Widerruf",
+    "l_faq": "E FAQ",
+    "search_vehicle": "E Fahrzeugsuche",
+    "leasing": "E Leasing"
+  },
+  "product-card": {
+    "b_offer": "E Zum Angebot",
+    "b_contact": "E Jetzt anfragen",
+    "l_month": "E Pro Monat",
+    "l_month_duration": "E Monate Laufzeit",
+    "l_totalperkm": "E 100/km (komb.)",
+    "l_coperkm": "E CO2/km (komb.)",
+    "l_retail_price": "Retail price",
+    "l_saving": "Savings",
+    "l_houseprice": "Our price"
+  },
+  "car_deals":{
+    "title": "DEALS UND SPECIALS",
+    "to_offer": "Zum Angebot",
+    "all_offer": "Alle Aktionsangebote" 
+   }
+}

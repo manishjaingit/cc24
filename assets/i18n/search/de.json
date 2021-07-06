@@ -1,0 +1,36 @@
+{
+  "search": {
+    "title_1": "Ihre Suchergebnisse",
+    "title_2": "Ergebnisse",
+    "l_sort": "Sortieren",
+    "l_filters": "Filtern",
+    "l_price_asc": "Preis aufsteigend",
+    "l_price_desc": "Preis absteigend",
+    "l_best_offer": "Bestes Angebot",
+    "l_please_select": "Bitte auswählen"
+  },
+  "search_bar": {
+    "l_manufacturer": "Automarke",
+    "l_selected": "Ausgewählt",
+    "l_every_model": "Alle Marken",
+    "l_modell": "Model",
+    "l_bodytype_tag": "Bauform",
+    "l_engine": "Leistung",
+    "l_horse_power": "PS",
+    "l_kilowatt": "kW",
+    "l_price": "Preis",
+    "l_financing": "Finanzierung",
+    "l_leasing": "Leasing",
+    "l_populat_prices": "Beliebte Raten",
+    "l_transmission_type": "Schaltung",
+    "l_fueltype": "Kraftstoff",
+    "b_search": "Suchen",
+    "l_to": "bis"
+  },
+  "serach": {
+    "l_price_asc": "Price ascending"
+  },
+  "leasing_or_financing":"LEASING ODER FINANZIERUNG?",
+  "our_expert_will_help_you":"Unsere Experten helfen Ihnen dabei das richtige für Sie zu finden.",
+  "learn_more":"MEHR ERFAHREN"
+}

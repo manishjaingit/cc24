@@ -1,0 +1,36 @@
+{
+  "search": {
+    "title_1": "Ihre Suchergebnisse",
+    "title_2": "E Ergebnisse",
+    "l_sort": "Sort",
+    "l_filters": "Filters",
+    "l_price_asc": "Price descending",
+    "l_price_desc": "Price descending",
+    "l_best_offer": "Best offer",
+    "l_please_select": "Please select"
+  },
+  "search_bar": {
+    "l_manufacturer": "E Automarke",
+    "l_selected": "E Ausgewählt",
+    "l_every_model": "E Alle Marken",
+    "l_modell": "E Model",
+    "l_bodytype_tag": "E Bauform",
+    "l_engine": "E Leistung",
+    "l_horse_power": "E PS",
+    "l_kilowatt": "E Kwh",
+    "l_price": "E Prize",
+    "l_financing": "E Finanzierung",
+    "l_leasing": "E Leasing",
+    "l_populat_prices": "E Beliebte Raten",
+    "l_transmission_type": "E Schaltung",
+    "l_fueltype": "E Kraftstoff",
+    "b_search": "E Suchen",
+    "l_to": "E bis"
+  },
+  "serach": {
+    "l_price_asc": "Price ascending"
+  },
+  "leasing_or_financing":"LEASING ODER FINANZIERUNG?",
+  "our_expert_will_help_you":"Unsere Experten helfen Ihnen dabei das richtige für Sie zu finden.",
+  "learn_more":"MEHR ERFAHREN"
+}

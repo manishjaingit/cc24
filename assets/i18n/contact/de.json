@@ -1,0 +1,17 @@
+{
+  "contact": {
+    "title": "HABEN SIE FRAGEN BEZÜGLICH UNSERER ANGEBOTE?",
+    "subtitle_one": "Dann sind Sie hier richtig! Wir sind hier um zu helfen!",
+    "subtitle_two": "Schreiben Sie uns eine Nachricht:",
+    "l_name": "vollständiger Name (Pflichtfeld)",
+    "l_email": " E-Mail-Adresse (Pflichtfeld)",
+    "l_phone": " Telefonnummer (Pflichtfeld)",
+    "l_subject": " Betreff (Pflichtfeld)",
+    "l_text": " Ihre Nachricht (Pflichtfeld)",
+    "l_accept_terms": "Hiermit akzeptiere ich die von mir zur Kenntniss genommene",
+    "l_privacy_settings": "Datenschutz",
+    "b_send": "Senden",
+    "l_submit_success": "Danke für Ihr Interesse. Ihre Anfrage wurde gesendet! Wir werden Sie umgehend kontaktieren",
+    "l_submit_fail": "Es ist ein Fehler aufgetreten, versuchen Sie es später erneut oder rufen Sie uns an!"
+  }
+}
